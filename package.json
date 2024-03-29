@@ -1,5 +1,5 @@
 {
-  "name": "f2020-cli-number-guessing",
+  "name": "f_ff-cli-number-guessing",
   "version": "1.0.0",
   "description": "cli based number guessing game",
   "main": "index.js",
